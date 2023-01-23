@@ -5,7 +5,7 @@ Name: Samia Khan Trisha
 
 Student: 22234103280
 
-email: samia.trisha@northsouth.edu
+email: samiatrisha1@gmail.com
 
 Intake : 50
 
